@@ -40,9 +40,9 @@ Labs:
 2) signed and unsigned max based on number of bits
 
 3) random password generator based on:
-# chars
-# letters
-# upper cased letters
+\# chars
+\# letters
+\# upper cased letters
 
 4) if else statements, switch statements, and debuging exercise
 
