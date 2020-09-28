@@ -1,8 +1,12 @@
 # CS161
 Course title: Introduction to Computer Science I
+
 Lecturer: Dr. Kiri Wagstaff
+
 Name: Lyon Kee
+
 ONID: 934057854
+
 Section: CS 161-020
 
 # Description:
