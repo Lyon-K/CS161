@@ -3,11 +3,11 @@ Name: Lyon Kee
 ONID: 934057854
 Section: CS 161-020
 
-Description:
+# Description:
 
 Repository for all course related modules of CS161 at Oregon State University for the Winter 2020 term.
 
-Assignments:
+# Assignments:
 
 1) Fortune Teller Game
 
@@ -33,7 +33,7 @@ seconds of animation
 
 6) Simple Recursion
 
-Labs:
+# Labs:
 
 1) std::cout
 
@@ -56,5 +56,5 @@ Labs:
 
 9) recursion
 
-Terms of Use:
+# Terms of Use:
 This repository is solely for the use of keeping track of coursework, it is not for others to copy, and atmost to be used as a reference.
